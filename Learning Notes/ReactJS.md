@@ -22,3 +22,10 @@ var app = (
 
 ReactDOM.render(app, document.querySelector("#app"));
 ```
+### [[How to create a local environment]]
+- Use Dependency Management Tool npm or yarn
+- Use Bundler Recommended: Webpack
+- Use Compiler (Next-Gen JavaScript) Babel + Presets
+- Use a Development Server
+
+Or we can do [[How to create a local environment#how to do it simply]]
