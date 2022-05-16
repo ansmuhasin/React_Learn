@@ -1,5 +1,5 @@
 # React JS
-In react we work with components.
+In react we work with components. React is made with [[Javascript]]
 we can write common code for a component and we can reutilize it.
 we can write html coded inside js , which will be converted to javascript in the background. called jsx
 ```jsx
